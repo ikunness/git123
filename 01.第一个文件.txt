@@ -6,4 +6,7 @@
 06 - 南北绿豆,叮咚鸡,大狗叫
 07 - Creating a new branch is quick.
 08 - 哈机密拍南北绿豆
-09 - Creating a new branch is quick & simple.  -- main
+<<<<<<< HEAD
+=======
+09 - Creating a new branch is quick AND simple. -- feature1
+>>>>>>> feature1
