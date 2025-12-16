@@ -7,7 +7,15 @@
 07 - Creating a new branch is quick.
 08 - 哈机密拍南北绿豆
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
-09 - Creating a new branch is quick AND simple. -- feature1
 >>>>>>> feature1
+<<<<<<< HEAD
 10 - Git is a free software
+=======
+10 - 机密哦,机密哈
+=======
+
+11-
+早辞白帝彩云间,千里江陵一日还,两岸猿声啼不住,轻舟已过万重山
+
