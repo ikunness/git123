@@ -7,7 +7,10 @@
 07 - Creating a new branch is quick.
 08 - 哈机密拍南北绿豆
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
-09 - Creating a new branch is quick AND simple. -- feature1
 >>>>>>> feature1
 10 - 机密哦,机密哈
+=======
+09 - Creating a new branch is quick & simple.  -- main
+>>>>>>> a7a86f2 (main分支提交 -- simple)
