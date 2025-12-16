@@ -10,3 +10,4 @@
 =======
 09 - Creating a new branch is quick AND simple. -- feature1
 >>>>>>> feature1
+10 - Git is a free software
